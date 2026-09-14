@@ -1,0 +1,3320 @@
+{
+  "brand": "Syntopica",
+  "asset_count": 308,
+  "assets": [
+    {
+      "file": "desktop/macos/Syntopica-charcoal.icns",
+      "bytes": 300806,
+      "sha256": "2f596138dd997591d485f286b3bf409e55114bc1acc5b9e69a634f2cc61f8ede",
+      "type": "raster",
+      "width": 1024,
+      "height": 1024,
+      "mode": "RGBA",
+      "sizes": [
+        [
+          512,
+          512,
+          2
+        ],
+        [
+          512,
+          512,
+          1
+        ],
+        [
+          256,
+          256,
+          2
+        ],
+        [
+          256,
+          256,
+          1
+        ],
+        [
+          128,
+          128,
+          2
+        ],
+        [
+          128,
+          128,
+          1
+        ],
+        [
+          32,
+          32,
+          2
+        ],
+        [
+          16,
+          16,
+          2
+        ]
+      ]
+    },
+    {
+      "file": "desktop/macos/Syntopica-ivory.icns",
+      "bytes": 341909,
+      "sha256": "f4ef1354ff58893f77c11e5edfa772676919d8e71c2ba88967699b139aa42e3f",
+      "type": "raster",
+      "width": 1024,
+      "height": 1024,
+      "mode": "RGBA",
+      "sizes": [
+        [
+          512,
+          512,
+          2
+        ],
+        [
+          512,
+          512,
+          1
+        ],
+        [
+          256,
+          256,
+          2
+        ],
+        [
+          256,
+          256,
+          1
+        ],
+        [
+          128,
+          128,
+          2
+        ],
+        [
+          128,
+          128,
+          1
+        ],
+        [
+          32,
+          32,
+          2
+        ],
+        [
+          16,
+          16,
+          2
+        ]
+      ]
+    },
+    {
+      "file": "desktop/macos/Syntopica-terracotta.icns",
+      "bytes": 320161,
+      "sha256": "6c283e96b1c238287d044515e5c6b2ab344f2ad22ef8bc2497c34d46d729fc53",
+      "type": "raster",
+      "width": 1024,
+      "height": 1024,
+      "mode": "RGBA",
+      "sizes": [
+        [
+          512,
+          512,
+          2
+        ],
+        [
+          512,
+          512,
+          1
+        ],
+        [
+          256,
+          256,
+          2
+        ],
+        [
+          256,
+          256,
+          1
+        ],
+        [
+          128,
+          128,
+          2
+        ],
+        [
+          128,
+          128,
+          1
+        ],
+        [
+          32,
+          32,
+          2
+        ],
+        [
+          16,
+          16,
+          2
+        ]
+      ]
+    },
+    {
+      "file": "desktop/macos/Syntopica.iconset/icon_128x128.png",
+      "bytes": 14078,
+      "sha256": "732374f7ee76c8de0b061a3a8e4c0f2a45c173ec5f1deca9bb0d2bff26f402a4",
+      "type": "raster",
+      "width": 128,
+      "height": 128,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "desktop/macos/Syntopica.iconset/icon_128x128@2x.png",
+      "bytes": 35038,
+      "sha256": "31daf3c0caf02690ecd450de6a89ee5f365834f0db1fd70bbb64777c16f0a3c1",
+      "type": "raster",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "desktop/macos/Syntopica.iconset/icon_16x16.png",
+      "bytes": 801,
+      "sha256": "80a3d84372924213d7c1a7801ac89c8bb5f63e4be3250b7d0f3f0d0b035106a7",
+      "type": "raster",
+      "width": 16,
+      "height": 16,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "desktop/macos/Syntopica.iconset/icon_16x16@2x.png",
+      "bytes": 2047,
+      "sha256": "06bd1459d6288e79fd030cb111abc18d57a2184f5c26d709b5227b0c0ac47024",
+      "type": "raster",
+      "width": 32,
+      "height": 32,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "desktop/macos/Syntopica.iconset/icon_256x256.png",
+      "bytes": 35038,
+      "sha256": "31daf3c0caf02690ecd450de6a89ee5f365834f0db1fd70bbb64777c16f0a3c1",
+      "type": "raster",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "desktop/macos/Syntopica.iconset/icon_256x256@2x.png",
+      "bytes": 79241,
+      "sha256": "f18454d73d25a72852ed4eb36f5d6c9aff4a5459f1bef6e00c12ae2c5c6db278",
+      "type": "raster",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "desktop/macos/Syntopica.iconset/icon_32x32.png",
+      "bytes": 2047,
+      "sha256": "06bd1459d6288e79fd030cb111abc18d57a2184f5c26d709b5227b0c0ac47024",
+      "type": "raster",
+      "width": 32,
+      "height": 32,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "desktop/macos/Syntopica.iconset/icon_32x32@2x.png",
+      "bytes": 5295,
+      "sha256": "7843bbcea92da07b415c7c4b345dc606619e9a0b40123ca7ff6a560ea9fd3a98",
+      "type": "raster",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "desktop/macos/Syntopica.iconset/icon_512x512.png",
+      "bytes": 79241,
+      "sha256": "f18454d73d25a72852ed4eb36f5d6c9aff4a5459f1bef6e00c12ae2c5c6db278",
+      "type": "raster",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "desktop/macos/Syntopica.iconset/icon_512x512@2x.png",
+      "bytes": 87232,
+      "sha256": "9bd0761c05b6eb9980f15a1711cd4aa7c6daa02b99e21a1ec1e875e6f478028d",
+      "type": "raster",
+      "width": 1024,
+      "height": 1024,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "desktop/windows/Syntopica-charcoal.ico",
+      "bytes": 54177,
+      "sha256": "e9cbd40b5fc16216a80f553342d5a35729e26fc6ccfc2f7caa25209c50ee5aa2",
+      "type": "raster",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA",
+      "sizes": [
+        [
+          16,
+          16
+        ],
+        [
+          24,
+          24
+        ],
+        [
+          32,
+          32
+        ],
+        [
+          48,
+          48
+        ],
+        [
+          64,
+          64
+        ],
+        [
+          128,
+          128
+        ],
+        [
+          256,
+          256
+        ]
+      ]
+    },
+    {
+      "file": "desktop/windows/Syntopica-ivory.ico",
+      "bytes": 62441,
+      "sha256": "2657291a3ac5e00540157cbb1bdf9d8d62c3aa0103195300b994e7eedf5fb76f",
+      "type": "raster",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA",
+      "sizes": [
+        [
+          16,
+          16
+        ],
+        [
+          24,
+          24
+        ],
+        [
+          32,
+          32
+        ],
+        [
+          48,
+          48
+        ],
+        [
+          64,
+          64
+        ],
+        [
+          128,
+          128
+        ],
+        [
+          256,
+          256
+        ]
+      ]
+    },
+    {
+      "file": "desktop/windows/Syntopica-terracotta.ico",
+      "bytes": 58212,
+      "sha256": "25474b2a00d41716a1dbe744c066e2054f66c58a31e4682f8ac5a69578725e9e",
+      "type": "raster",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA",
+      "sizes": [
+        [
+          16,
+          16
+        ],
+        [
+          24,
+          24
+        ],
+        [
+          32,
+          32
+        ],
+        [
+          48,
+          48
+        ],
+        [
+          64,
+          64
+        ],
+        [
+          128,
+          128
+        ],
+        [
+          256,
+          256
+        ]
+      ]
+    },
+    {
+      "file": "favicons/dark/favicon-128x128.png",
+      "bytes": 11229,
+      "sha256": "a777ce945099b4fd032c0cadb65d34fef04ed4f48cac740836349a14e123323c",
+      "type": "raster",
+      "width": 128,
+      "height": 128,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "favicons/dark/favicon-16x16.png",
+      "bytes": 583,
+      "sha256": "49c926cd39a8389c8175850b911ce93458815eafe6c56df4262bb4549a2f14bc",
+      "type": "raster",
+      "width": 16,
+      "height": 16,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "favicons/dark/favicon-24x24.png",
+      "bytes": 987,
+      "sha256": "b695913d0918beab4c0262b795d7da5739fc8e2b6ba5c29abcb68185b48bc29e",
+      "type": "raster",
+      "width": 24,
+      "height": 24,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "favicons/dark/favicon-256x256.png",
+      "bytes": 28195,
+      "sha256": "686823d07bbdf1ab12e9592bb77249857a95d6aa5419fd5887f17cea20f51027",
+      "type": "raster",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "favicons/dark/favicon-32x32.png",
+      "bytes": 1499,
+      "sha256": "83b3db5cbfb2cbb8a5b4778f2e6533db0d2ad81f01a019339d82da44094cc7c1",
+      "type": "raster",
+      "width": 32,
+      "height": 32,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "favicons/dark/favicon-48x48.png",
+      "bytes": 2522,
+      "sha256": "14355b6ab4dbf9d8681e0ce8885cb9a2e07f5c646ae9f44b920126cdbe493189",
+      "type": "raster",
+      "width": 48,
+      "height": 48,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "favicons/dark/favicon-64x64.png",
+      "bytes": 4183,
+      "sha256": "208a538bc43b3e3cce91654237e12ea57dbb5d115eaf7fd3817c80082cfc878d",
+      "type": "raster",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "favicons/dark/favicon.ico",
+      "bytes": 50849,
+      "sha256": "2d10645ae246aca43cf58b7630bb470aeb030d42b487dbf2c1317293ba297859",
+      "type": "raster",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA",
+      "sizes": [
+        [
+          16,
+          16
+        ],
+        [
+          24,
+          24
+        ],
+        [
+          32,
+          32
+        ],
+        [
+          48,
+          48
+        ],
+        [
+          64,
+          64
+        ],
+        [
+          128,
+          128
+        ],
+        [
+          256,
+          256
+        ]
+      ]
+    },
+    {
+      "file": "favicons/dark/favicon.svg",
+      "bytes": 675,
+      "sha256": "82d69dbd4df24fe488f3f8144961b4081691a99db98765ff780c596be3f58ac4",
+      "type": "vector",
+      "viewBox": "0 0 512 512",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "favicons/favicon-16x16.png",
+      "bytes": 704,
+      "sha256": "4ef83c2fd654fd830a9f6e774c4ca48be7d6fab5c466a1d32b9d6899555da075",
+      "type": "raster",
+      "width": 16,
+      "height": 16,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "favicons/favicon-32x32.png",
+      "bytes": 2079,
+      "sha256": "5d871450f966f946eb499fe9765d541647e9382c8faf33c38c3d8b1e7c41700b",
+      "type": "raster",
+      "width": 32,
+      "height": 32,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "favicons/favicon-48x48.png",
+      "bytes": 3518,
+      "sha256": "8a3b3e0d8cbdc4a1f927ca5e9672d3dfd0563c2b8f0c41d769fcf87d4d1c85b0",
+      "type": "raster",
+      "width": 48,
+      "height": 48,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "favicons/favicon.ico",
+      "bytes": 69518,
+      "sha256": "d127f2d034e7455ff1c12d748e9a663fe8867e0922478c22766abe4ad30ed0e9",
+      "type": "raster",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA",
+      "sizes": [
+        [
+          16,
+          16
+        ],
+        [
+          24,
+          24
+        ],
+        [
+          32,
+          32
+        ],
+        [
+          48,
+          48
+        ],
+        [
+          64,
+          64
+        ],
+        [
+          128,
+          128
+        ],
+        [
+          256,
+          256
+        ]
+      ]
+    },
+    {
+      "file": "favicons/favicon.svg",
+      "bytes": 801,
+      "sha256": "c7c6eb28e4c583333ba121c3313e8eb3a4c46d8f2a133ab6824e3c3696745e09",
+      "type": "vector",
+      "viewBox": "0 0 512 512",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "favicons/ivory/favicon-128x128.png",
+      "bytes": 16101,
+      "sha256": "c0cba222585d1b2f2d25b92d36a49e48f44842835246327a2528466647b5b504",
+      "type": "raster",
+      "width": 128,
+      "height": 128,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "favicons/ivory/favicon-16x16.png",
+      "bytes": 704,
+      "sha256": "4ef83c2fd654fd830a9f6e774c4ca48be7d6fab5c466a1d32b9d6899555da075",
+      "type": "raster",
+      "width": 16,
+      "height": 16,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "favicons/ivory/favicon-24x24.png",
+      "bytes": 1230,
+      "sha256": "78ac8b707d7f4ef7c6d6177c57893782f189257c201e4ebb2477aa21da8e8042",
+      "type": "raster",
+      "width": 24,
+      "height": 24,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "favicons/ivory/favicon-256x256.png",
+      "bytes": 39266,
+      "sha256": "fe43c3b1ff0c31b73887eafb452fd22f69f7a7608fb3f2c72d8976bde7d21fe2",
+      "type": "raster",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "favicons/ivory/favicon-32x32.png",
+      "bytes": 2079,
+      "sha256": "5d871450f966f946eb499fe9765d541647e9382c8faf33c38c3d8b1e7c41700b",
+      "type": "raster",
+      "width": 32,
+      "height": 32,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "favicons/ivory/favicon-48x48.png",
+      "bytes": 3518,
+      "sha256": "8a3b3e0d8cbdc4a1f927ca5e9672d3dfd0563c2b8f0c41d769fcf87d4d1c85b0",
+      "type": "raster",
+      "width": 48,
+      "height": 48,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "favicons/ivory/favicon-64x64.png",
+      "bytes": 6088,
+      "sha256": "93814a3fa5994132c31ebf488aed01f983ccdacfbfe68b8f50e1cbba6e6a3359",
+      "type": "raster",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "favicons/ivory/favicon.ico",
+      "bytes": 69518,
+      "sha256": "d127f2d034e7455ff1c12d748e9a663fe8867e0922478c22766abe4ad30ed0e9",
+      "type": "raster",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA",
+      "sizes": [
+        [
+          16,
+          16
+        ],
+        [
+          24,
+          24
+        ],
+        [
+          32,
+          32
+        ],
+        [
+          48,
+          48
+        ],
+        [
+          64,
+          64
+        ],
+        [
+          128,
+          128
+        ],
+        [
+          256,
+          256
+        ]
+      ]
+    },
+    {
+      "file": "favicons/ivory/favicon.svg",
+      "bytes": 722,
+      "sha256": "6c13c4da0eca15f95bd575f7ba329227f5ec9d86000136670aa04a3c3659a7b3",
+      "type": "vector",
+      "viewBox": "0 0 512 512",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "favicons/light/favicon-128x128.png",
+      "bytes": 13901,
+      "sha256": "aae79b042422cf3dd25c8fbbd4160b8b66be36becc6ecafbd31eaae2f15000ef",
+      "type": "raster",
+      "width": 128,
+      "height": 128,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "favicons/light/favicon-16x16.png",
+      "bytes": 659,
+      "sha256": "cf3d5a07e9dc557a5314657180a3dd73b69cbfedfd1c39e8588f171fae699b78",
+      "type": "raster",
+      "width": 16,
+      "height": 16,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "favicons/light/favicon-24x24.png",
+      "bytes": 1134,
+      "sha256": "d886024daf23d09f45e095b29d3aac520bfc1a168897c33d0cc2798f32cb9706",
+      "type": "raster",
+      "width": 24,
+      "height": 24,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "favicons/light/favicon-256x256.png",
+      "bytes": 33733,
+      "sha256": "e55241cd0c61ba20f38170abae9e26906fcfdf5ebac72d11079b0090fc9f0796",
+      "type": "raster",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "favicons/light/favicon-32x32.png",
+      "bytes": 1813,
+      "sha256": "e8a5dfee24a59e5705b541d3a266fbf9abda0ef2454829cbe80a3e704c873d12",
+      "type": "raster",
+      "width": 32,
+      "height": 32,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "favicons/light/favicon-48x48.png",
+      "bytes": 3192,
+      "sha256": "20e7b4a27ec9b3c1a2f9adf297ff41621d64e02f05e47d187e63696ca3465461",
+      "type": "raster",
+      "width": 48,
+      "height": 48,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "favicons/light/favicon-64x64.png",
+      "bytes": 5315,
+      "sha256": "2f6291eb103e703285b9f1d4b71042b2c4c2bfc771ddd30774c6e4dd2da02f71",
+      "type": "raster",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "favicons/light/favicon.ico",
+      "bytes": 60991,
+      "sha256": "0a343fab2af195938ebc8e0535b8004a43914c5f86ddd262dd3a6c23262b3cac",
+      "type": "raster",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA",
+      "sizes": [
+        [
+          16,
+          16
+        ],
+        [
+          24,
+          24
+        ],
+        [
+          32,
+          32
+        ],
+        [
+          48,
+          48
+        ],
+        [
+          64,
+          64
+        ],
+        [
+          128,
+          128
+        ],
+        [
+          256,
+          256
+        ]
+      ]
+    },
+    {
+      "file": "favicons/light/favicon.svg",
+      "bytes": 675,
+      "sha256": "aa888e7d2c18740c5cf775f45f543bb9a512d0afba4be7affba7450ffbc6f0dc",
+      "type": "vector",
+      "viewBox": "0 0 512 512",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "favicons/safari-pinned-tab.svg",
+      "bytes": 917,
+      "sha256": "b9c31807310f6c818b39fedadff980f2b779276ab4876c64d09b37106d99a891",
+      "type": "vector",
+      "viewBox": "0 0 512 512",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "favicons/sources/symbol-compact.svg",
+      "bytes": 917,
+      "sha256": "7aa9b3cba7e2472aa0fe45cedc8e3fcac77d04fb742694edcc3ff83c537866cf",
+      "type": "vector",
+      "viewBox": "0 0 512 512",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "favicons/sources/symbol-micro.svg",
+      "bytes": 675,
+      "sha256": "aa888e7d2c18740c5cf775f45f543bb9a512d0afba4be7affba7450ffbc6f0dc",
+      "type": "vector",
+      "viewBox": "0 0 512 512",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "favicons/terracotta/favicon-128x128.png",
+      "bytes": 14315,
+      "sha256": "e025edcd89ee64e1d5a8d3daa3fcc603cadccb6ca429fe00ada37e15d21e598d",
+      "type": "raster",
+      "width": 128,
+      "height": 128,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "favicons/terracotta/favicon-16x16.png",
+      "bytes": 793,
+      "sha256": "4bf9400f3416cbe6e3c18ca6424bf74e1be1663cdfc7cca21ae18d8065313943",
+      "type": "raster",
+      "width": 16,
+      "height": 16,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "favicons/terracotta/favicon-24x24.png",
+      "bytes": 1302,
+      "sha256": "1ed95568bcdbae6a59472f181fd743c6d5bebd019d461229e2d13f004c1ff385",
+      "type": "raster",
+      "width": 24,
+      "height": 24,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "favicons/terracotta/favicon-256x256.png",
+      "bytes": 34769,
+      "sha256": "205068f298854ec24fe89bf4fa3f682cb3fdc8eb2656ae3ddf7a6742fd8f869b",
+      "type": "raster",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "favicons/terracotta/favicon-32x32.png",
+      "bytes": 2053,
+      "sha256": "f3eb25f196d29e4ff8556fd2f2e815a5e26f0822e928f24a079bc4f20d5a017e",
+      "type": "raster",
+      "width": 32,
+      "height": 32,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "favicons/terracotta/favicon-48x48.png",
+      "bytes": 3318,
+      "sha256": "31f5cc6f7e1e0174ac72149e4f34ad4d8ba1e00a0143854ff46f373bc7f3522d",
+      "type": "raster",
+      "width": 48,
+      "height": 48,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "favicons/terracotta/favicon-64x64.png",
+      "bytes": 5666,
+      "sha256": "dbd3a43b0faed9c6fb03b6cda2b365ad0ee32f07cdf7a01705d3459a502b5460",
+      "type": "raster",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "favicons/terracotta/favicon.ico",
+      "bytes": 62634,
+      "sha256": "9a04aeb2e84e00a637a93bb76da12a678e974b10d115aed1aa80fbf6624af9c2",
+      "type": "raster",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA",
+      "sizes": [
+        [
+          16,
+          16
+        ],
+        [
+          24,
+          24
+        ],
+        [
+          32,
+          32
+        ],
+        [
+          48,
+          48
+        ],
+        [
+          64,
+          64
+        ],
+        [
+          128,
+          128
+        ],
+        [
+          256,
+          256
+        ]
+      ]
+    },
+    {
+      "file": "favicons/terracotta/favicon.svg",
+      "bytes": 722,
+      "sha256": "c82eb071f8633bd760b3346c4ed44dc9c8ce1e939600fa5c1b8079316a76f06a",
+      "type": "vector",
+      "viewBox": "0 0 512 512",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "icons/rounded/black/icon-1024.png",
+      "bytes": 85268,
+      "sha256": "1b3fbc9e8a735bc4cb41a3a8eb1ff2fcd01c39711f392a64c9476845d9a86c54",
+      "type": "raster",
+      "width": 1024,
+      "height": 1024,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "icons/rounded/black/icon-128.png",
+      "bytes": 12367,
+      "sha256": "4860f9255f7eb1636657e94c745c7a0ca42e9df7c9eaf8064b4c7fe8f99810dd",
+      "type": "raster",
+      "width": 128,
+      "height": 128,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "icons/rounded/black/icon-256.png",
+      "bytes": 30313,
+      "sha256": "826490d2a1d880edbba3ba9d20e5f5f048eee9cc7e1753181bc6addba5f9f057",
+      "type": "raster",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "icons/rounded/black/icon-512.png",
+      "bytes": 68454,
+      "sha256": "85fc7e49f953c18940a059e1687ff70027c4ad3fa344262eaafee7f4415a00a3",
+      "type": "raster",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "icons/rounded/black/icon.svg",
+      "bytes": 27305,
+      "sha256": "c8411ac9e908022420017effb065782f579aa2de84c7c66ad777932e9c9d3ecd",
+      "type": "vector",
+      "viewBox": "0 0 512 512",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "icons/rounded/charcoal/icon-1024.png",
+      "bytes": 85660,
+      "sha256": "06ea483ed29c4be6d6150db17bbee20ed754d28a5081e80cb96795f430942499",
+      "type": "raster",
+      "width": 1024,
+      "height": 1024,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "icons/rounded/charcoal/icon-128.png",
+      "bytes": 12571,
+      "sha256": "1901d5f650eebc52d0217e0b64bf6375320bc2e7a4472d8f652a37bbdf3f8fef",
+      "type": "raster",
+      "width": 128,
+      "height": 128,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "icons/rounded/charcoal/icon-256.png",
+      "bytes": 30074,
+      "sha256": "59221e7c345bf74b6294d2499ef404c0d025a525f09e337da173dddebe09c30c",
+      "type": "raster",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "icons/rounded/charcoal/icon-512.png",
+      "bytes": 68504,
+      "sha256": "2f8e7be789b88d00d8a50fe790f3a764736eba35702a4511183bf113f050f3b8",
+      "type": "raster",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "icons/rounded/charcoal/icon.svg",
+      "bytes": 27305,
+      "sha256": "17f9422ea69d8f6f4c32e4c988a8b2809f218ac62f4e400c7bbc50de86659ef9",
+      "type": "vector",
+      "viewBox": "0 0 512 512",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "icons/rounded/fog/icon-1024.png",
+      "bytes": 87892,
+      "sha256": "118c7759eb806d49132e8c6664f4ba102a22aca2966789d17acc18e7d9fb9702",
+      "type": "raster",
+      "width": 1024,
+      "height": 1024,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "icons/rounded/fog/icon-128.png",
+      "bytes": 14327,
+      "sha256": "2f5985a3dc52042beabe3e29fc89d1974c0741485ac27c5ae6cf9ea3c65d7404",
+      "type": "raster",
+      "width": 128,
+      "height": 128,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "icons/rounded/fog/icon-256.png",
+      "bytes": 35365,
+      "sha256": "1afcfaa94473efb6555d556bade7a8f8c38bb8858ba25537cd7ae310494f0aba",
+      "type": "raster",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "icons/rounded/fog/icon-512.png",
+      "bytes": 80695,
+      "sha256": "349ce6fcc25c5cbca33e2f4114d6581febc2b2ff646297fdeb0b034bc3d0510f",
+      "type": "raster",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "icons/rounded/fog/icon.svg",
+      "bytes": 27305,
+      "sha256": "53c1feb7b18800dbce1cb49a5030da43304c1bc1c09bcfee94414bf10af6a304",
+      "type": "vector",
+      "viewBox": "0 0 512 512",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "icons/rounded/ivory/icon-1024.png",
+      "bytes": 87232,
+      "sha256": "9bd0761c05b6eb9980f15a1711cd4aa7c6daa02b99e21a1ec1e875e6f478028d",
+      "type": "raster",
+      "width": 1024,
+      "height": 1024,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "icons/rounded/ivory/icon-128.png",
+      "bytes": 14078,
+      "sha256": "732374f7ee76c8de0b061a3a8e4c0f2a45c173ec5f1deca9bb0d2bff26f402a4",
+      "type": "raster",
+      "width": 128,
+      "height": 128,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "icons/rounded/ivory/icon-256.png",
+      "bytes": 35038,
+      "sha256": "31daf3c0caf02690ecd450de6a89ee5f365834f0db1fd70bbb64777c16f0a3c1",
+      "type": "raster",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "icons/rounded/ivory/icon-512.png",
+      "bytes": 79241,
+      "sha256": "f18454d73d25a72852ed4eb36f5d6c9aff4a5459f1bef6e00c12ae2c5c6db278",
+      "type": "raster",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "icons/rounded/ivory/icon.svg",
+      "bytes": 27305,
+      "sha256": "82ec6c0d19837ea8f4fb89c629fbec89924c3195ae6ed6bf0339f6c0001a5501",
+      "type": "vector",
+      "viewBox": "0 0 512 512",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "icons/rounded/sand/icon-1024.png",
+      "bytes": 87844,
+      "sha256": "db10933bbb90214e2091e4584879c8a0abc29fff9ff4e1587b1edeae4a9f3605",
+      "type": "raster",
+      "width": 1024,
+      "height": 1024,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "icons/rounded/sand/icon-128.png",
+      "bytes": 14301,
+      "sha256": "824a670f7a08bd0e3030cfd71f62ba98aa3fe773f15a6a4824adc8c282cdebbe",
+      "type": "raster",
+      "width": 128,
+      "height": 128,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "icons/rounded/sand/icon-256.png",
+      "bytes": 35433,
+      "sha256": "0a841244f99fbf06270ec2807ee518de1fea79d5e12900ac41a892e817b1af97",
+      "type": "raster",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "icons/rounded/sand/icon-512.png",
+      "bytes": 80999,
+      "sha256": "4a93e8c5b8b552a50116063db5fd5bc0a3b84b98a451ad4264e3eec8805806fc",
+      "type": "raster",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "icons/rounded/sand/icon.svg",
+      "bytes": 27305,
+      "sha256": "80f8196d0043a0da7b01091f5fc5c9aebe1ef58e8e0d50f17c28a2b6d08e7d10",
+      "type": "vector",
+      "viewBox": "0 0 512 512",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "icons/rounded/terracotta/icon-1024.png",
+      "bytes": 86527,
+      "sha256": "4c63a1814ad90d2b0c4e1dd2406aea00843f704b9890aad5157c0b4439138930",
+      "type": "raster",
+      "width": 1024,
+      "height": 1024,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "icons/rounded/terracotta/icon-128.png",
+      "bytes": 13263,
+      "sha256": "cc40edbee736525e4e59910e8aa60eb32672def068678ee4b725d8fb96290ad4",
+      "type": "raster",
+      "width": 128,
+      "height": 128,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "icons/rounded/terracotta/icon-256.png",
+      "bytes": 32068,
+      "sha256": "e93e15b8267b9ccb2a9f98a92961ad912dd60453874d0a27be2e24d31d10eebc",
+      "type": "raster",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "icons/rounded/terracotta/icon-512.png",
+      "bytes": 73676,
+      "sha256": "1329f8ab5c7a97ec054fcfb0d2ff25b8c62cee3188497920d0cf1bc30321f0be",
+      "type": "raster",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "icons/rounded/terracotta/icon.svg",
+      "bytes": 27305,
+      "sha256": "cd91d88f8a902f8ef4d5a2897d47c09b18e019005867b053bffeb08f4a2630e6",
+      "type": "vector",
+      "viewBox": "0 0 512 512",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "icons/rounded/white/icon-1024.png",
+      "bytes": 83049,
+      "sha256": "702aa2d33848342b04a888b310a8b02c6c9409a28bfdb805ebc4f9d69b77bb64",
+      "type": "raster",
+      "width": 1024,
+      "height": 1024,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "icons/rounded/white/icon-128.png",
+      "bytes": 11767,
+      "sha256": "6258323b137a0d8c00225cda40b731f212f6a9c63db11f2c433283194b88d905",
+      "type": "raster",
+      "width": 128,
+      "height": 128,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "icons/rounded/white/icon-256.png",
+      "bytes": 29077,
+      "sha256": "e057ddf2e6868bc1261ba7457c9149d77f288ee96de4bc12e1e61cdbb0a83331",
+      "type": "raster",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "icons/rounded/white/icon-512.png",
+      "bytes": 66188,
+      "sha256": "57cf09824593d6c92e29341202de05850b68d0c1ae78287eda34d053e02b3bb1",
+      "type": "raster",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "icons/rounded/white/icon.svg",
+      "bytes": 27305,
+      "sha256": "0e69651f60bebcab01182aa9a154b7fe1cf6a7dea3a6a06b75e1dc9ff1b35537",
+      "type": "vector",
+      "viewBox": "0 0 512 512",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "icons/square/black/icon-1024.png",
+      "bytes": 75976,
+      "sha256": "7435e1d79c924b2ddf0fdcaecedb0a1ba3f81f6652706b2166eb88d06864310d",
+      "type": "raster",
+      "width": 1024,
+      "height": 1024,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/black/icon-128.png",
+      "bytes": 10776,
+      "sha256": "91885e883a7ccc62a0d0de6402f31c62c865aefbf1b2749c8734649bdbed9d16",
+      "type": "raster",
+      "width": 128,
+      "height": 128,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/black/icon-180.png",
+      "bytes": 17203,
+      "sha256": "5302e3e2198eb11461c69e2f6eefee34283f3913d88e692fb1f397636a0bf3c9",
+      "type": "raster",
+      "width": 180,
+      "height": 180,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/black/icon-192.png",
+      "bytes": 18731,
+      "sha256": "d93dbe07dea88684d653f5b23dc85895914f79fb1b91c37708c4d91c002b2dfd",
+      "type": "raster",
+      "width": 192,
+      "height": 192,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/black/icon-256.png",
+      "bytes": 27121,
+      "sha256": "44445f421843ebc5547d6e10c0c28abe2055a14b5450a392b7ff0893af1faa4e",
+      "type": "raster",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/black/icon-32.png",
+      "bytes": 1591,
+      "sha256": "b7032449daa86bbef94777eceda19d8851e158fb69bf877b8515225f0e78580b",
+      "type": "raster",
+      "width": 32,
+      "height": 32,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/black/icon-48.png",
+      "bytes": 2470,
+      "sha256": "8b01fc08a2714b00d42b51da8444ae9217b862432b771ec5313fe55393ac8821",
+      "type": "raster",
+      "width": 48,
+      "height": 48,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/black/icon-512.png",
+      "bytes": 61757,
+      "sha256": "48c7775079cbdad1414dca23b53024108701961b40433741c958e2904170b81d",
+      "type": "raster",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/black/icon-64.png",
+      "bytes": 4164,
+      "sha256": "52f449b97b88565362685c66c7c005151d0b17f1364a5d7b444e552a8ab5cc77",
+      "type": "raster",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/black/icon-96.png",
+      "bytes": 7330,
+      "sha256": "be1a5bf0828898c93ee01fde4acc68684b00426ef51369720aa3907f473a6990",
+      "type": "raster",
+      "width": 96,
+      "height": 96,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/black/icon.svg",
+      "bytes": 27296,
+      "sha256": "4df99bbaaf73a1c77bd4192d933e792f012ea7282006db6cb1676250b9cb716a",
+      "type": "vector",
+      "viewBox": "0 0 512 512",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "icons/square/charcoal/icon-1024.png",
+      "bytes": 76263,
+      "sha256": "9d012c4ff4654b5d083ac39148a9ca7305602d41beccd1eb49d461f2b05ad7d6",
+      "type": "raster",
+      "width": 1024,
+      "height": 1024,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/charcoal/icon-128.png",
+      "bytes": 10721,
+      "sha256": "e7e54c9777f8eea42073aecd810a46d8303a2d431c47f2a771542bfaf0a84d0d",
+      "type": "raster",
+      "width": 128,
+      "height": 128,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/charcoal/icon-180.png",
+      "bytes": 16846,
+      "sha256": "249a0731ccb356b204aa71cfd8e9551fe5fffdc6e56d030527e5b99a4a96d185",
+      "type": "raster",
+      "width": 180,
+      "height": 180,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/charcoal/icon-192.png",
+      "bytes": 18118,
+      "sha256": "af5fc3797fc44cd577baaf2d928c0cb066ff9a1318111d4b40d997f947fd7fdb",
+      "type": "raster",
+      "width": 192,
+      "height": 192,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/charcoal/icon-256.png",
+      "bytes": 26298,
+      "sha256": "4fcf409d047634d4d22af2f38664cede99d611ad0fb2db8a59d786cd73e9b9f8",
+      "type": "raster",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/charcoal/icon-32.png",
+      "bytes": 1552,
+      "sha256": "82aeada67e6167ad6a8fd81bd76c11a84a37d3203bce911f074ed52702e9d567",
+      "type": "raster",
+      "width": 32,
+      "height": 32,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/charcoal/icon-48.png",
+      "bytes": 2421,
+      "sha256": "42c8ffd39d1694362aac23cc7a6d78cbc204235830dfa47efaea18e23e140371",
+      "type": "raster",
+      "width": 48,
+      "height": 48,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/charcoal/icon-512.png",
+      "bytes": 60483,
+      "sha256": "e9e674b7a97862bd12520575e09535eeba9c6512d8fde32863e7424e0f49b738",
+      "type": "raster",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/charcoal/icon-64.png",
+      "bytes": 4140,
+      "sha256": "b8c891a8f57671a2d98fea9d3c472f5f9e9cee444064cc14262575bd80a4be48",
+      "type": "raster",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/charcoal/icon-96.png",
+      "bytes": 7218,
+      "sha256": "2ece3f137143b1ebbe6d3d6b96f7269d52937bc59af353455af382584c9b6697",
+      "type": "raster",
+      "width": 96,
+      "height": 96,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/charcoal/icon.svg",
+      "bytes": 27296,
+      "sha256": "c468a79409f921bd5eac9750cef0bc1896de7df856435681f955c28c2db8e0e3",
+      "type": "vector",
+      "viewBox": "0 0 512 512",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "icons/square/fog/icon-1024.png",
+      "bytes": 78640,
+      "sha256": "d2b85c748dfce3264008b61dc9748f342633101526c326039a9bb140ac1da1c1",
+      "type": "raster",
+      "width": 1024,
+      "height": 1024,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/fog/icon-128.png",
+      "bytes": 12108,
+      "sha256": "e19f023893057fe598ffeea4759941386711482ada81108a3dbba3bd4eb32d9c",
+      "type": "raster",
+      "width": 128,
+      "height": 128,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/fog/icon-180.png",
+      "bytes": 19565,
+      "sha256": "599db18e9c06c323b2b46d7af1da0a4c3900049b3f23b0052e19c7449f180f92",
+      "type": "raster",
+      "width": 180,
+      "height": 180,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/fog/icon-192.png",
+      "bytes": 20983,
+      "sha256": "9cf297413b02c4e4c62b9fc336fbce0113a61cb2e77d17bf77070376004fe06f",
+      "type": "raster",
+      "width": 192,
+      "height": 192,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/fog/icon-256.png",
+      "bytes": 30725,
+      "sha256": "483c6133bcbe9108b6cfe4e7b9c4fd17a346f672e6907cead1f5f85376fb2134",
+      "type": "raster",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/fog/icon-32.png",
+      "bytes": 1601,
+      "sha256": "d2185b7bf76464321d18bcb4fac3ca258fbd7c4d6647585858e3364556873a38",
+      "type": "raster",
+      "width": 32,
+      "height": 32,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/fog/icon-48.png",
+      "bytes": 2703,
+      "sha256": "9bcbdfff4042ac159b0e4e7f7c70867a7fc5dc8c8b1f4e7f81103b5cd5c0dd48",
+      "type": "raster",
+      "width": 48,
+      "height": 48,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/fog/icon-512.png",
+      "bytes": 71379,
+      "sha256": "3f4a151a6576960752617587e52762a127c64b70c3da565c870a9c78d3ecd070",
+      "type": "raster",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/fog/icon-64.png",
+      "bytes": 4521,
+      "sha256": "750e3d1da6675bf9421b28c0b88dc0484a3562fbeb98104ec3cbe2a50ed9f1e6",
+      "type": "raster",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/fog/icon-96.png",
+      "bytes": 8147,
+      "sha256": "84b5b5174c3d38e84a6de6cd63a714d36374fc8de236dc7e570a085ae3fa635f",
+      "type": "raster",
+      "width": 96,
+      "height": 96,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/fog/icon.svg",
+      "bytes": 27296,
+      "sha256": "f0428d6359df9a7c5728ff88de4d71c4d460c07ffe13daa5fd01a8164b3fe011",
+      "type": "vector",
+      "viewBox": "0 0 512 512",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "icons/square/ivory/icon-1024.png",
+      "bytes": 78002,
+      "sha256": "508952e356cf5b896cd683e977227a5fdbfec04fd1be4b7a0cd6289178e76b25",
+      "type": "raster",
+      "width": 1024,
+      "height": 1024,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/ivory/icon-128.png",
+      "bytes": 12095,
+      "sha256": "65e6f65cafff57daa54eba875c9f91bd2697660991addad44f8a38c57ed037d0",
+      "type": "raster",
+      "width": 128,
+      "height": 128,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/ivory/icon-180.png",
+      "bytes": 19359,
+      "sha256": "1fb6cd0a923a97af1f5e686051dc03b21eea51e30909e4a776819d3c94a2929e",
+      "type": "raster",
+      "width": 180,
+      "height": 180,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/ivory/icon-192.png",
+      "bytes": 21324,
+      "sha256": "fdf1b19bc09176a5dbd9690917a214647e65a71eebce6eef031e22a00abbc7a2",
+      "type": "raster",
+      "width": 192,
+      "height": 192,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/ivory/icon-256.png",
+      "bytes": 30741,
+      "sha256": "a438609efa2d7450e70c287905b3274e3fc78efaa4cd6b147960802f8cb8e379",
+      "type": "raster",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/ivory/icon-32.png",
+      "bytes": 1670,
+      "sha256": "fc4e69173c6641fd9b61eea56e3b4fd07259eaf94830454db48f5ab2bba47711",
+      "type": "raster",
+      "width": 32,
+      "height": 32,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/ivory/icon-48.png",
+      "bytes": 2710,
+      "sha256": "273c869dd6b388fe785a7be2c9da6a4fd88d3f2519f545b54887c20b2e39ae4c",
+      "type": "raster",
+      "width": 48,
+      "height": 48,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/ivory/icon-512.png",
+      "bytes": 70926,
+      "sha256": "4b623c1e3b52a6a1849e36348138fca347020d1a73523327a97b818ab3e8e0e7",
+      "type": "raster",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/ivory/icon-64.png",
+      "bytes": 4404,
+      "sha256": "621e15c405792e6104d387046b0f87e72c30a04b96b3c847a078ee748fec3aa5",
+      "type": "raster",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/ivory/icon-96.png",
+      "bytes": 8032,
+      "sha256": "9db6a5f2b3e47e39d38e489dc628f153ddb094d3cf3bf4cd9c9d30fdc58ec3c8",
+      "type": "raster",
+      "width": 96,
+      "height": 96,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/ivory/icon.svg",
+      "bytes": 27296,
+      "sha256": "797dc6f2c8da31496794dd8d92a0697464204238b3573f1ac7fa1f4c9b291c71",
+      "type": "vector",
+      "viewBox": "0 0 512 512",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "icons/square/sand/icon-1024.png",
+      "bytes": 78539,
+      "sha256": "14957a7c70c0df70773fe60e81533f321a3edcdc7b649850a01128512210acb7",
+      "type": "raster",
+      "width": 1024,
+      "height": 1024,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/sand/icon-128.png",
+      "bytes": 12034,
+      "sha256": "f9b42f2010382962d37fe97c24d19338f41f91790698dcec5a7f62b207c10322",
+      "type": "raster",
+      "width": 128,
+      "height": 128,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/sand/icon-180.png",
+      "bytes": 19418,
+      "sha256": "b4ed834de6931069b15ea6ab149f011b02b3a902e4abf91e9893036078ab05b9",
+      "type": "raster",
+      "width": 180,
+      "height": 180,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/sand/icon-192.png",
+      "bytes": 21082,
+      "sha256": "2af6caed483bb88847fad1745cd2c58d5c89e1bf05620ea689392ce594843deb",
+      "type": "raster",
+      "width": 192,
+      "height": 192,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/sand/icon-256.png",
+      "bytes": 30675,
+      "sha256": "ad05ef7d4322b48a219a46a021edaca387de37200b4067a084ed092ac0c65742",
+      "type": "raster",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/sand/icon-32.png",
+      "bytes": 1657,
+      "sha256": "0241713bb3d8c67e1baa49667f3a03ea38802973b011af6b4896ce0d7bcb06e4",
+      "type": "raster",
+      "width": 32,
+      "height": 32,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/sand/icon-48.png",
+      "bytes": 2741,
+      "sha256": "f6397ad7f453890b150fdc588690497367b6092ead200ba49944ab5c75c8950b",
+      "type": "raster",
+      "width": 48,
+      "height": 48,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/sand/icon-512.png",
+      "bytes": 70975,
+      "sha256": "dc07a4b20827047e960837298d153eefa60dc3962bb2c769719a38191c1cfdb3",
+      "type": "raster",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/sand/icon-64.png",
+      "bytes": 4501,
+      "sha256": "96a3022063b37c4db58b6062f3c7d4cfe6287553fc622637bf87c528a4707c6f",
+      "type": "raster",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/sand/icon-96.png",
+      "bytes": 8042,
+      "sha256": "fa39694ddce103049109834f6a61b7d72772afc6fefb5e54728eea2cb6a61421",
+      "type": "raster",
+      "width": 96,
+      "height": 96,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/sand/icon.svg",
+      "bytes": 27296,
+      "sha256": "d4d4019d678321a2c1f2b233f6e93b96e9fd16f9af7c527db83ca18166c34964",
+      "type": "vector",
+      "viewBox": "0 0 512 512",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "icons/square/terracotta/icon-1024.png",
+      "bytes": 76927,
+      "sha256": "e25531785fcd9e17d9114e650b2e2135f1c9ba51802e1d52a145451e91f16bae",
+      "type": "raster",
+      "width": 1024,
+      "height": 1024,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/terracotta/icon-128.png",
+      "bytes": 11010,
+      "sha256": "d095fa8c76eae571ee32d826950a42c501910f158a3d722b38b9106400a3893b",
+      "type": "raster",
+      "width": 128,
+      "height": 128,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/terracotta/icon-180.png",
+      "bytes": 17547,
+      "sha256": "2800d5a42844d8d93a87f161d9df903db1fed4d7f1ac6e2ca6e75750a17e893c",
+      "type": "raster",
+      "width": 180,
+      "height": 180,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/terracotta/icon-192.png",
+      "bytes": 19000,
+      "sha256": "78c9348518d5faf1fda7e77e548976a6a87f4b3ef94e5819c6413489a7d0f1cd",
+      "type": "raster",
+      "width": 192,
+      "height": 192,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/terracotta/icon-256.png",
+      "bytes": 27371,
+      "sha256": "600ec8abcfd443da0feddb2ca8d89c5c509c2af0cd89294054001bd676f3dec6",
+      "type": "raster",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/terracotta/icon-32.png",
+      "bytes": 1560,
+      "sha256": "40608e48d5605e4a8a473b108af94ebc92328e9a1559820728623ffff9fd2ef6",
+      "type": "raster",
+      "width": 32,
+      "height": 32,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/terracotta/icon-48.png",
+      "bytes": 2669,
+      "sha256": "b8f69c953585d54bc3098f7a62e70b42d91294eb1b5fee9e2a490ae6b11af73a",
+      "type": "raster",
+      "width": 48,
+      "height": 48,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/terracotta/icon-512.png",
+      "bytes": 63742,
+      "sha256": "337f03943c3f10cb34361bbbe9321e65779b47a297476bfa8b687b51b3150446",
+      "type": "raster",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/terracotta/icon-64.png",
+      "bytes": 4251,
+      "sha256": "1c7e9e8287d30f1908b6ce3d987b9195a1960fc4b7dc94e7bab53659898d18c6",
+      "type": "raster",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/terracotta/icon-96.png",
+      "bytes": 7431,
+      "sha256": "fe1f70bf29c1dfd11b37c42742c5ea5aedbf5dab279f162c0fae8fb9628090e6",
+      "type": "raster",
+      "width": 96,
+      "height": 96,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/terracotta/icon.svg",
+      "bytes": 27296,
+      "sha256": "7d1abeaedd80f0f4b2d448949206981bbd7e9a3dfdecd87c33f46ed761fa659d",
+      "type": "vector",
+      "viewBox": "0 0 512 512",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "icons/square/white/icon-1024.png",
+      "bytes": 75525,
+      "sha256": "0088f87b2c9f7ba66b960b13acc917aebdfa33ad107cd82ea66c71ddb1c199fb",
+      "type": "raster",
+      "width": 1024,
+      "height": 1024,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/white/icon-128.png",
+      "bytes": 10488,
+      "sha256": "783550b946e3c907caaee74ebb3911f1ee9dfc95eacc667ac13cae320adb9899",
+      "type": "raster",
+      "width": 128,
+      "height": 128,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/white/icon-180.png",
+      "bytes": 16586,
+      "sha256": "143a9e7ade871a124102ccfab916b198df67aef57e75c6d4f0d90233879abce1",
+      "type": "raster",
+      "width": 180,
+      "height": 180,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/white/icon-192.png",
+      "bytes": 18075,
+      "sha256": "ebd2a96d292b96c328ab2481e4fd24dfc6bfb34afd8ef0f34a2c97028f3eac7a",
+      "type": "raster",
+      "width": 192,
+      "height": 192,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/white/icon-256.png",
+      "bytes": 26471,
+      "sha256": "b3a93e26a55573425f16e748825d659286b12219db17f99227cd892ca4bcc2e0",
+      "type": "raster",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/white/icon-32.png",
+      "bytes": 1391,
+      "sha256": "e7036da04e22067262f1d5303eda9b1bedc412f9b7f8c69be936e7949027ad74",
+      "type": "raster",
+      "width": 32,
+      "height": 32,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/white/icon-48.png",
+      "bytes": 2347,
+      "sha256": "ea9684a8cc325f834ea894dae4cd63d51dd08f8fe85c74d2e3405c10237b5904",
+      "type": "raster",
+      "width": 48,
+      "height": 48,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/white/icon-512.png",
+      "bytes": 60687,
+      "sha256": "4ffd78a90d41c2469ad38d426add0a549b586de1fe44b3d022806166dc63c840",
+      "type": "raster",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/white/icon-64.png",
+      "bytes": 4070,
+      "sha256": "b062295e6b1b9ccf06c1ffff2757def081d92f9cbeae8e7791dcc4674a0f0423",
+      "type": "raster",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/white/icon-96.png",
+      "bytes": 7066,
+      "sha256": "3a4a0a71a405f8b5501de1e06f7a8ac089cf188cd07c55116ee462752b12a499",
+      "type": "raster",
+      "width": 96,
+      "height": 96,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "icons/square/white/icon.svg",
+      "bytes": 27296,
+      "sha256": "b986c058b7dfcc291daa6f7fe40733aa88788494b1d321689615cd388cafbec9",
+      "type": "vector",
+      "viewBox": "0 0 512 512",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "icons/transparent/icon-black-1024.png",
+      "bytes": 43129,
+      "sha256": "143a96f20c1b921f71707fcb33be364fc8d3e603101b3030d91580d90e983215",
+      "type": "raster",
+      "width": 1024,
+      "height": 1024,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "icons/transparent/icon-black-128.png",
+      "bytes": 5299,
+      "sha256": "fa29d9602fa88de8fb52ef63ef5915ff03925ad1564d29c804909512fe6d08ad",
+      "type": "raster",
+      "width": 128,
+      "height": 128,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "icons/transparent/icon-black-256.png",
+      "bytes": 13550,
+      "sha256": "2979c9462ed7072655bb6ec8b257135330c92c3e5b667543423aad000ad54404",
+      "type": "raster",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "icons/transparent/icon-black-512.png",
+      "bytes": 32505,
+      "sha256": "f4b75091e5b21bb146a0ea6014f9eaed95da8daf65cdb69d235d21c47c96a678",
+      "type": "raster",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "icons/transparent/icon-black.svg",
+      "bytes": 27249,
+      "sha256": "63793ec82a5a6fa84263e10a2e8972fac6ab4a28b5a791b60a95fd0e41e49846",
+      "type": "vector",
+      "viewBox": "0 0 512 512",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "icons/transparent/icon-color-1024.png",
+      "bytes": 70087,
+      "sha256": "ec601d6bec8c471539120c8d42a910960790fce770f080dafd8024cf60f70e8c",
+      "type": "raster",
+      "width": 1024,
+      "height": 1024,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "icons/transparent/icon-color-128.png",
+      "bytes": 10465,
+      "sha256": "c45e7ab1397def2473a6df5eb9de6d056bc55616800e9b1f0e67d5ebf9f3bf87",
+      "type": "raster",
+      "width": 128,
+      "height": 128,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "icons/transparent/icon-color-256.png",
+      "bytes": 26445,
+      "sha256": "ea5c3d82c42925c7a0e3f0e88a56259b9a16d05e642038b699b5f8d0f5bee2e7",
+      "type": "raster",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "icons/transparent/icon-color-512.png",
+      "bytes": 60759,
+      "sha256": "0a841295665aa346d5ba0a11db58d9a03fb23ec17327a094e777084187198e8d",
+      "type": "raster",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "icons/transparent/icon-color.svg",
+      "bytes": 27249,
+      "sha256": "a27d3afebb6211c85b481d1be87bee936e2dfa91f0eae5ac180139588a843c32",
+      "type": "vector",
+      "viewBox": "0 0 512 512",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "icons/transparent/icon-inverse-1024.png",
+      "bytes": 60661,
+      "sha256": "78003423919a513c7c82b2122c4928ca8e984e0e31abd7d88af915f9a6563a42",
+      "type": "raster",
+      "width": 1024,
+      "height": 1024,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "icons/transparent/icon-inverse-128.png",
+      "bytes": 8482,
+      "sha256": "bd38034412292323c6446b74ea3de0353dd0402663851b57c1f5af28fa126d86",
+      "type": "raster",
+      "width": 128,
+      "height": 128,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "icons/transparent/icon-inverse-256.png",
+      "bytes": 22055,
+      "sha256": "ef094494c52491d052e185877839a62c03ab9488c782d09caa9d89beab535468",
+      "type": "raster",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "icons/transparent/icon-inverse-512.png",
+      "bytes": 50824,
+      "sha256": "dd6eef4c1852a39a14e4f3811e64d2cd95b849185476cacea63e98e2144873f6",
+      "type": "raster",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "icons/transparent/icon-inverse.svg",
+      "bytes": 27249,
+      "sha256": "0fd9ba0768da8f79ccb6c719a0b2e42f3d5f93d5d26ff89bfd10e52c7bc38cdd",
+      "type": "vector",
+      "viewBox": "0 0 512 512",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "icons/transparent/icon-terracotta-1024.png",
+      "bytes": 70589,
+      "sha256": "9374d95c4549f09da11e5ee363ab04c6b4cf59235d95f83462f28fdfef821725",
+      "type": "raster",
+      "width": 1024,
+      "height": 1024,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "icons/transparent/icon-terracotta-128.png",
+      "bytes": 11647,
+      "sha256": "2de51fa9dcfdb1e466dad80854caf0c52205f51dc1dfa03c3b86675c9d486c46",
+      "type": "raster",
+      "width": 128,
+      "height": 128,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "icons/transparent/icon-terracotta-256.png",
+      "bytes": 30276,
+      "sha256": "1a6bb68ce876859402739ac1a3cce2fb8283617f8d8a64fcce2c5275ee8c87f6",
+      "type": "raster",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "icons/transparent/icon-terracotta-512.png",
+      "bytes": 69330,
+      "sha256": "b2ed69fdb9395812ab471de09fced55edbfc7f5f6af64bffe2b67824dbaa2310",
+      "type": "raster",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "icons/transparent/icon-terracotta.svg",
+      "bytes": 27249,
+      "sha256": "fe471c343ef54f9449fba479d3c7e8dacf0fcd09a21fbe9c12d83a5ceda1f4b8",
+      "type": "vector",
+      "viewBox": "0 0 512 512",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "icons/transparent/icon-white-1024.png",
+      "bytes": 51533,
+      "sha256": "a60a201b6cdce66f8c9ad3a3aea01b76a630b53c498d1b5276269af1a2c46978",
+      "type": "raster",
+      "width": 1024,
+      "height": 1024,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "icons/transparent/icon-white-128.png",
+      "bytes": 5852,
+      "sha256": "d41764ca408c3969f5e20832d6d4c751cbd58e266b982653f8493c2cc428487a",
+      "type": "raster",
+      "width": 128,
+      "height": 128,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "icons/transparent/icon-white-256.png",
+      "bytes": 14885,
+      "sha256": "239fbcd9919ffa315ccb2f6135f5a274a2a77706c70c753332fcac1335345bec",
+      "type": "raster",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "icons/transparent/icon-white-512.png",
+      "bytes": 36737,
+      "sha256": "75ac6aeecfcc507bb1c48cc7940204b442256d4f3e8010bfe9d1d8aee58233d7",
+      "type": "raster",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "icons/transparent/icon-white.svg",
+      "bytes": 27249,
+      "sha256": "9c39e343a3e16729f3ce3b25443f2cb995055f0eb42fc4ea257e3d2ad0a0b476",
+      "type": "vector",
+      "viewBox": "0 0 512 512",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "logos/backgrounds/syntopica-horizontal-on-black-1600.png",
+      "bytes": 74816,
+      "sha256": "58ca44efb97e7496476c4f13f5aaa85c2522830a8bbb2a4fce24b58d63a1f828",
+      "type": "raster",
+      "width": 1600,
+      "height": 401,
+      "mode": "RGB",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "logos/backgrounds/syntopica-horizontal-on-black.svg",
+      "bytes": 40123,
+      "sha256": "916e6d705d56697a33448e84d642e55b7357e91e635ea244e6e03df1342e63ca",
+      "type": "vector",
+      "viewBox": "0 0 751 188",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "logos/backgrounds/syntopica-horizontal-on-charcoal-1600.png",
+      "bytes": 74388,
+      "sha256": "d0ace66a0f5878a97536f49fbcbbfc72d418611e7972550609288cd591502223",
+      "type": "raster",
+      "width": 1600,
+      "height": 401,
+      "mode": "RGB",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "logos/backgrounds/syntopica-horizontal-on-charcoal.svg",
+      "bytes": 40123,
+      "sha256": "4c0771154896d9790e2a9b06ac0999661df40a88954fe9f654c67eb91224ea0d",
+      "type": "vector",
+      "viewBox": "0 0 751 188",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "logos/backgrounds/syntopica-horizontal-on-fog-1600.png",
+      "bytes": 77936,
+      "sha256": "95161175554a145c1fc76cec1aa56e83922f5ee24c3ef773782b8ee3fe48883c",
+      "type": "raster",
+      "width": 1600,
+      "height": 401,
+      "mode": "RGB",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "logos/backgrounds/syntopica-horizontal-on-fog.svg",
+      "bytes": 40123,
+      "sha256": "3a820f6d476b0fde829049ac6c7f2f2246ce4488e2372ca6dadf64762fe38f41",
+      "type": "vector",
+      "viewBox": "0 0 751 188",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "logos/backgrounds/syntopica-horizontal-on-ivory-1600.png",
+      "bytes": 76996,
+      "sha256": "35eee570d8f089e857ee082d2803a6b7b6e90bd24714834cc4b29314103fb57c",
+      "type": "raster",
+      "width": 1600,
+      "height": 401,
+      "mode": "RGB",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "logos/backgrounds/syntopica-horizontal-on-ivory.svg",
+      "bytes": 40123,
+      "sha256": "12c08a603e3dacbd4af8c6c31261468f76523934379031eb2b30b55f6fedb446",
+      "type": "vector",
+      "viewBox": "0 0 751 188",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "logos/backgrounds/syntopica-horizontal-on-sand-1600.png",
+      "bytes": 78098,
+      "sha256": "60737c3c1fb2782fe487e1c55c07efa2eef528bffe2caf4ea35650c558e216e8",
+      "type": "raster",
+      "width": 1600,
+      "height": 401,
+      "mode": "RGB",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "logos/backgrounds/syntopica-horizontal-on-sand.svg",
+      "bytes": 40123,
+      "sha256": "47911397f6afa39b9b1cc0c4bff41a1fa44b39eae1a09a32ec8a4fffca0dfb43",
+      "type": "vector",
+      "viewBox": "0 0 751 188",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "logos/backgrounds/syntopica-horizontal-on-terracotta-1600.png",
+      "bytes": 76189,
+      "sha256": "ab8a8383118fc327670c2cac1fbe8c4d3c266ca16281995fc6d636c63cff0e6f",
+      "type": "raster",
+      "width": 1600,
+      "height": 401,
+      "mode": "RGB",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "logos/backgrounds/syntopica-horizontal-on-terracotta.svg",
+      "bytes": 40123,
+      "sha256": "92e140f00710e19ff3cf302656efe0fd3a415b2b0e91df30abb03264a5a750a7",
+      "type": "vector",
+      "viewBox": "0 0 751 188",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "logos/backgrounds/syntopica-horizontal-on-white-1600.png",
+      "bytes": 74607,
+      "sha256": "673e38901f889fe56899e88d100a85b5bfe734ce21d35d170dad7dcf5f814462",
+      "type": "raster",
+      "width": 1600,
+      "height": 401,
+      "mode": "RGB",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "logos/backgrounds/syntopica-horizontal-on-white.svg",
+      "bytes": 40123,
+      "sha256": "7c40d35ca9000d0ba6de7f8cbbaabe9d235a80190ecf14505c27942b55a12fa1",
+      "type": "vector",
+      "viewBox": "0 0 751 188",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "logos/backgrounds/syntopica-stacked-on-black-1600.png",
+      "bytes": 147832,
+      "sha256": "7d370d2219dfcce5bf085ea5b62a7076ae0290bb5fadaa424527cc30ef021bc7",
+      "type": "raster",
+      "width": 1600,
+      "height": 1412,
+      "mode": "RGB",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "logos/backgrounds/syntopica-stacked-on-black.svg",
+      "bytes": 40121,
+      "sha256": "32500d1700e28a8e897129f9c6b18191351619e44bb11946c503897d9f21dd7c",
+      "type": "vector",
+      "viewBox": "0 0 545 481",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "logos/backgrounds/syntopica-stacked-on-charcoal-1600.png",
+      "bytes": 147743,
+      "sha256": "52976421b3c5e1c6090efdad63a5d2472796296bd7da72cf8a707bb989c3b332",
+      "type": "raster",
+      "width": 1600,
+      "height": 1412,
+      "mode": "RGB",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "logos/backgrounds/syntopica-stacked-on-charcoal.svg",
+      "bytes": 40121,
+      "sha256": "0bdc2af005a0f7df18a9bd56678ed5471154d1e0b89dfd2a2b6bfaad6f8f396b",
+      "type": "vector",
+      "viewBox": "0 0 545 481",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "logos/backgrounds/syntopica-stacked-on-fog-1600.png",
+      "bytes": 153515,
+      "sha256": "4262e6d6fc9b7c2839b8c4f403f5ddf559e0161dc854cdc85a89c19133ade1a1",
+      "type": "raster",
+      "width": 1600,
+      "height": 1412,
+      "mode": "RGB",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "logos/backgrounds/syntopica-stacked-on-fog.svg",
+      "bytes": 40121,
+      "sha256": "2655caccc527acebe167d226d4e9efa54677226aba7844f897039672682933b7",
+      "type": "vector",
+      "viewBox": "0 0 545 481",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "logos/backgrounds/syntopica-stacked-on-ivory-1600.png",
+      "bytes": 151858,
+      "sha256": "a6273a1ecc10708ce4ea92769305870e93b0e0697ac147a6b530869d995a5783",
+      "type": "raster",
+      "width": 1600,
+      "height": 1412,
+      "mode": "RGB",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "logos/backgrounds/syntopica-stacked-on-ivory.svg",
+      "bytes": 40121,
+      "sha256": "74cb22dd195ed966c59988efbc9600240484755c4b0a3d5a286e32ada7e2afc1",
+      "type": "vector",
+      "viewBox": "0 0 545 481",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "logos/backgrounds/syntopica-stacked-on-sand-1600.png",
+      "bytes": 153819,
+      "sha256": "951f4e9939bcafd065c013b263584c6267ff16ce0f16736e4084aace74bf779c",
+      "type": "raster",
+      "width": 1600,
+      "height": 1412,
+      "mode": "RGB",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "logos/backgrounds/syntopica-stacked-on-sand.svg",
+      "bytes": 40121,
+      "sha256": "e2833e6e7a9b89d1e34c05aacb3e86d54b91eb735ff2d678b4bb85510acd9814",
+      "type": "vector",
+      "viewBox": "0 0 545 481",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "logos/backgrounds/syntopica-stacked-on-terracotta-1600.png",
+      "bytes": 151927,
+      "sha256": "3ca4c910bf70fbac4d37edc5c781e7f8f9fd932653fc369503e686d7454a13b4",
+      "type": "raster",
+      "width": 1600,
+      "height": 1412,
+      "mode": "RGB",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "logos/backgrounds/syntopica-stacked-on-terracotta.svg",
+      "bytes": 40121,
+      "sha256": "863ecc2c822eb8fad84de66ba9c734abafd2dc33244b55b585f35d7200a1f6f1",
+      "type": "vector",
+      "viewBox": "0 0 545 481",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "logos/backgrounds/syntopica-stacked-on-white-1600.png",
+      "bytes": 146534,
+      "sha256": "e92d04d3ddb3a0fd5f157022ec07cc1ee0a1149af3cd83c8354a787faa096eb7",
+      "type": "raster",
+      "width": 1600,
+      "height": 1412,
+      "mode": "RGB",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "logos/backgrounds/syntopica-stacked-on-white.svg",
+      "bytes": 40121,
+      "sha256": "3971b0dbbb8b6c5abbbaa7033082c4e966902bf567f381df9b552e87ae9f0c64",
+      "type": "vector",
+      "viewBox": "0 0 545 481",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "logos/png/transparent/syntopica-horizontal-black-1200.png",
+      "bytes": 33615,
+      "sha256": "374f3cd56f4955507fe61e4beb849c74a246e26ddf5dd346444fc9a98570b332",
+      "type": "raster",
+      "width": 1200,
+      "height": 300,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "logos/png/transparent/syntopica-horizontal-black-2400.png",
+      "bytes": 73805,
+      "sha256": "dce94b4a6875c5e186fd097c757f9928723aa6dfd9c4b0c8d973b206492b1f6e",
+      "type": "raster",
+      "width": 2400,
+      "height": 601,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "logos/png/transparent/syntopica-horizontal-color-1200.png",
+      "bytes": 56389,
+      "sha256": "119e2527feb3cf581e0acdb0f28f29aeaa9df940e45fba236f69c0879152271e",
+      "type": "raster",
+      "width": 1200,
+      "height": 300,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "logos/png/transparent/syntopica-horizontal-color-2400.png",
+      "bytes": 120008,
+      "sha256": "99af330ad0327b43caafe4de52ce47cace3ddcc05c90aea8af364fb093767d2f",
+      "type": "raster",
+      "width": 2400,
+      "height": 601,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "logos/png/transparent/syntopica-horizontal-inverse-1200.png",
+      "bytes": 45189,
+      "sha256": "37dd7c7f998faaec3f5088591312cfb635a425af161712e4c17d542db1759fa7",
+      "type": "raster",
+      "width": 1200,
+      "height": 300,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "logos/png/transparent/syntopica-horizontal-inverse-2400.png",
+      "bytes": 97824,
+      "sha256": "f7e8111dc59b4b0db68e1b5d0662d6053069024f44ea3c600fe8f9c1922bf1b3",
+      "type": "raster",
+      "width": 2400,
+      "height": 601,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "logos/png/transparent/syntopica-horizontal-terracotta-1200.png",
+      "bytes": 58691,
+      "sha256": "56a14868f941a6f5b0b5db8ab51cdb8b3837003ad4b3bc778eea7096fd919453",
+      "type": "raster",
+      "width": 1200,
+      "height": 300,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "logos/png/transparent/syntopica-horizontal-terracotta-2400.png",
+      "bytes": 124938,
+      "sha256": "203871d139f177a30542f25a27176644e9fe7b07713c7c54b05b73dd1eb327e0",
+      "type": "raster",
+      "width": 2400,
+      "height": 601,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "logos/png/transparent/syntopica-horizontal-white-1200.png",
+      "bytes": 39441,
+      "sha256": "658add14d52e938bf8b91ebcc185604e28b501746cb0966bf5471aa8a3a89dd4",
+      "type": "raster",
+      "width": 1200,
+      "height": 300,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "logos/png/transparent/syntopica-horizontal-white-2400.png",
+      "bytes": 89108,
+      "sha256": "6dbb780114de22fbfe264da3c35317e811a81f1c5e088eec1038f39c512992e2",
+      "type": "raster",
+      "width": 2400,
+      "height": 601,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "logos/png/transparent/syntopica-stacked-black-1200.png",
+      "bytes": 68683,
+      "sha256": "0c7dfe6287e6357bcb00db77c6011691147422687c8307e745c65314b064d307",
+      "type": "raster",
+      "width": 1200,
+      "height": 1059,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "logos/png/transparent/syntopica-stacked-black-2400.png",
+      "bytes": 154898,
+      "sha256": "c61252c61c482a92bcf71733b60f9537219d03a734e84b26102776fd2c361a71",
+      "type": "raster",
+      "width": 2400,
+      "height": 2118,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "logos/png/transparent/syntopica-stacked-color-1200.png",
+      "bytes": 109980,
+      "sha256": "8aabde2208de328da12d0239ec1fa546412f147dbb43fdcba9937bd9455b0073",
+      "type": "raster",
+      "width": 1200,
+      "height": 1059,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "logos/png/transparent/syntopica-stacked-color-2400.png",
+      "bytes": 235386,
+      "sha256": "387fa408e2f3c203e2496070ccc7b8d5d4f8e03a758690431cd8dc01756ed93a",
+      "type": "raster",
+      "width": 2400,
+      "height": 2118,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "logos/png/transparent/syntopica-stacked-inverse-1200.png",
+      "bytes": 90625,
+      "sha256": "c898ae737e64a5fb7ee2dd0b9be5c9b23905281ab2e28e0db29d5ef2dfb70afc",
+      "type": "raster",
+      "width": 1200,
+      "height": 1059,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "logos/png/transparent/syntopica-stacked-inverse-2400.png",
+      "bytes": 195902,
+      "sha256": "0cbbb15834dce0f6b8360dbc905ddb97258d37c19b16bbf2266dfb3d64f68a8c",
+      "type": "raster",
+      "width": 2400,
+      "height": 2118,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "logos/png/transparent/syntopica-stacked-terracotta-1200.png",
+      "bytes": 113397,
+      "sha256": "d32c5eb347e9e041d158ea8d755196d23c2ce31432d219725cfc14229ec7e979",
+      "type": "raster",
+      "width": 1200,
+      "height": 1059,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "logos/png/transparent/syntopica-stacked-terracotta-2400.png",
+      "bytes": 242423,
+      "sha256": "6f16e4227c8fb7c4860be0fbb49c0c10e11b49197b7c1ce5fe596cf2e227e141",
+      "type": "raster",
+      "width": 2400,
+      "height": 2118,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "logos/png/transparent/syntopica-stacked-white-1200.png",
+      "bytes": 81567,
+      "sha256": "1dc10bb922859a834147c63bf275ab34227ca7ffd036d1a3482a2541a1a865c0",
+      "type": "raster",
+      "width": 1200,
+      "height": 1059,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "logos/png/transparent/syntopica-stacked-white-2400.png",
+      "bytes": 179864,
+      "sha256": "e5e50abc4b4d208005a3b32736a4e3d2d0a8dd8decca9077b961190f34da8edb",
+      "type": "raster",
+      "width": 2400,
+      "height": 2118,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "logos/png/transparent/syntopica-symbol-black-1024.png",
+      "bytes": 54158,
+      "sha256": "64a6a04aaaa80a66c1e90423296869422905583549c7a1d2afba76c537f0cb22",
+      "type": "raster",
+      "width": 1024,
+      "height": 868,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "logos/png/transparent/syntopica-symbol-black-512.png",
+      "bytes": 41147,
+      "sha256": "b81967d2a43c389b63212b0f20d8d50bc814060d54c11273d10206e2163d3b6d",
+      "type": "raster",
+      "width": 512,
+      "height": 434,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "logos/png/transparent/syntopica-symbol-color-1024.png",
+      "bytes": 86847,
+      "sha256": "a612716e191f70e4c44e55e684c0dc35877ae25d125506aefe1399b15eb87d2d",
+      "type": "raster",
+      "width": 1024,
+      "height": 868,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "logos/png/transparent/syntopica-symbol-color-512.png",
+      "bytes": 76062,
+      "sha256": "69095e4061c200b88c7fe82dab86a4d32ff27f04a03a0c1c811d62cb71a4922a",
+      "type": "raster",
+      "width": 512,
+      "height": 434,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "logos/png/transparent/syntopica-symbol-inverse-1024.png",
+      "bytes": 74003,
+      "sha256": "928e10428395e40056e9e662bea8ecd840fa36e743d3a796f215517497aaedaa",
+      "type": "raster",
+      "width": 1024,
+      "height": 868,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "logos/png/transparent/syntopica-symbol-inverse-512.png",
+      "bytes": 64147,
+      "sha256": "73a443a58455481724535c876bb6e5428f3cfbb9163aa76a14f5402cdd34ed0b",
+      "type": "raster",
+      "width": 512,
+      "height": 434,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "logos/png/transparent/syntopica-symbol-terracotta-1024.png",
+      "bytes": 87687,
+      "sha256": "d1cf7c4465c28091de2ab138ccf31d2467636a71f17230dd1a477e31f1f1b46d",
+      "type": "raster",
+      "width": 1024,
+      "height": 868,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "logos/png/transparent/syntopica-symbol-terracotta-512.png",
+      "bytes": 88159,
+      "sha256": "f613a0713dd4714fa6e2623ba7bcb00956c302303dccc8967484aaae8f5b1c72",
+      "type": "raster",
+      "width": 512,
+      "height": 434,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "logos/png/transparent/syntopica-symbol-white-1024.png",
+      "bytes": 63584,
+      "sha256": "8c453148d0b08b17daba1b5cb272ac3b0cb3eae8baaf3cc48fd62ff0b444d223",
+      "type": "raster",
+      "width": 1024,
+      "height": 868,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "logos/png/transparent/syntopica-symbol-white-512.png",
+      "bytes": 45820,
+      "sha256": "eda96ceab423af0bcc1fcbca560b39940a911dfd7db9d2f8a8d950221ea718ab",
+      "type": "raster",
+      "width": 512,
+      "height": 434,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "logos/png/transparent/syntopica-wordmark-black-1200.png",
+      "bytes": 25436,
+      "sha256": "373f0aaefb869b2bfe5750a7e7362c853953d8e6268ff963f14d2b667cd35ed4",
+      "type": "raster",
+      "width": 1200,
+      "height": 340,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "logos/png/transparent/syntopica-wordmark-black-2400.png",
+      "bytes": 57072,
+      "sha256": "4f843eadf46eb8e431e29be57a8211d1ccbac19340fc2d44273b63f594c8c97c",
+      "type": "raster",
+      "width": 2400,
+      "height": 681,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "logos/png/transparent/syntopica-wordmark-color-1200.png",
+      "bytes": 38684,
+      "sha256": "58cbcebd559041c8a004e72ab005c8125e17fccfb5f0b55c9a0ef16f93c01487",
+      "type": "raster",
+      "width": 1200,
+      "height": 340,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "logos/png/transparent/syntopica-wordmark-color-2400.png",
+      "bytes": 85147,
+      "sha256": "646f3418f0b0d511a5f7f0ce9bdedc09f151f9953bfd72f2b83a113e8e6e9369",
+      "type": "raster",
+      "width": 2400,
+      "height": 681,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "logos/png/transparent/syntopica-wordmark-inverse-1200.png",
+      "bytes": 29977,
+      "sha256": "3540b1f17da65998a91d9e0aa63039444c097956f48937b811891cea1254ed06",
+      "type": "raster",
+      "width": 1200,
+      "height": 340,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "logos/png/transparent/syntopica-wordmark-inverse-2400.png",
+      "bytes": 67405,
+      "sha256": "720df081eab92dc7c0770e9cd9096cd831c35bd56f86d0af07b6f0d2ee5c064c",
+      "type": "raster",
+      "width": 2400,
+      "height": 681,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "logos/png/transparent/syntopica-wordmark-terracotta-1200.png",
+      "bytes": 41450,
+      "sha256": "ae885ac0368ee48aade46488232c91c60785cc7c655309d3bad45685a553f2b9",
+      "type": "raster",
+      "width": 1200,
+      "height": 340,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "logos/png/transparent/syntopica-wordmark-terracotta-2400.png",
+      "bytes": 90960,
+      "sha256": "4864ea240ffff2dfd47e25cebb27fdf2ab189605935427207d3381a1a198a07b",
+      "type": "raster",
+      "width": 2400,
+      "height": 681,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "logos/png/transparent/syntopica-wordmark-white-1200.png",
+      "bytes": 29977,
+      "sha256": "3540b1f17da65998a91d9e0aa63039444c097956f48937b811891cea1254ed06",
+      "type": "raster",
+      "width": 1200,
+      "height": 340,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "logos/png/transparent/syntopica-wordmark-white-2400.png",
+      "bytes": 67405,
+      "sha256": "720df081eab92dc7c0770e9cd9096cd831c35bd56f86d0af07b6f0d2ee5c064c",
+      "type": "raster",
+      "width": 2400,
+      "height": 681,
+      "mode": "RGBA",
+      "has_transparent_pixels": true
+    },
+    {
+      "file": "logos/svg/syntopica-horizontal-black.svg",
+      "bytes": 40076,
+      "sha256": "500199caab157294d7cf385c30b5b79bbbac69120359c470c9a4d69706343195",
+      "type": "vector",
+      "viewBox": "0 0 751 188",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "logos/svg/syntopica-horizontal-color.svg",
+      "bytes": 40076,
+      "sha256": "85e4049c8428a8850787ec1bca962914be47be76c629af698e351d3befe00b50",
+      "type": "vector",
+      "viewBox": "0 0 751 188",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "logos/svg/syntopica-horizontal-inverse.svg",
+      "bytes": 40076,
+      "sha256": "df056fba38721bca7fdb50dd8cad0708f9fa645e4b030d769bb51da80665ec1a",
+      "type": "vector",
+      "viewBox": "0 0 751 188",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "logos/svg/syntopica-horizontal-terracotta.svg",
+      "bytes": 40076,
+      "sha256": "058b6c36fa171c85a7994271e5750443996190127972917e52d92a0bcdaefd61",
+      "type": "vector",
+      "viewBox": "0 0 751 188",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "logos/svg/syntopica-horizontal-white.svg",
+      "bytes": 40076,
+      "sha256": "4c29a3086d7c602764a25b720af9bf23f33d4efb8383b66d0a0b0b11f6481386",
+      "type": "vector",
+      "viewBox": "0 0 751 188",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "logos/svg/syntopica-stacked-black.svg",
+      "bytes": 40074,
+      "sha256": "f3b24128c8e787a60441064cdbefeb0fdbfe48ca0d08dc42767402d0e39108e0",
+      "type": "vector",
+      "viewBox": "0 0 545 481",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "logos/svg/syntopica-stacked-color.svg",
+      "bytes": 40074,
+      "sha256": "252c19050ebc4bd9b2fd0562c79fb83fea5c4aa59f6846a70abbbc442e80e9b0",
+      "type": "vector",
+      "viewBox": "0 0 545 481",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "logos/svg/syntopica-stacked-inverse.svg",
+      "bytes": 40074,
+      "sha256": "bfed24aa6dbedc7321bf4b170b31742643dd9c1ec88aa837dd95a76c8fdae7ee",
+      "type": "vector",
+      "viewBox": "0 0 545 481",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "logos/svg/syntopica-stacked-terracotta.svg",
+      "bytes": 40074,
+      "sha256": "8cd32dbfba0df5b937e8925fcb3aa3900bd7eeaf0d0a7b35538061762dd031b2",
+      "type": "vector",
+      "viewBox": "0 0 545 481",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "logos/svg/syntopica-stacked-white.svg",
+      "bytes": 40074,
+      "sha256": "0c86a7106745827a154457948a4289e2da382306a7d61684c02c1d580a3b840d",
+      "type": "vector",
+      "viewBox": "0 0 545 481",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "logos/svg/syntopica-symbol-black.svg",
+      "bytes": 27246,
+      "sha256": "04cae3184d84708882e80da0baad316c110eb3c47d363c3a31695110545b1d62",
+      "type": "vector",
+      "viewBox": "0 0 367 311",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "logos/svg/syntopica-symbol-color.svg",
+      "bytes": 27246,
+      "sha256": "7196ff83bceca5b382d94372b0ba975a7a7789ff153be439669ebcffbda54aad",
+      "type": "vector",
+      "viewBox": "0 0 367 311",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "logos/svg/syntopica-symbol-inverse.svg",
+      "bytes": 27246,
+      "sha256": "1f69ad1e3f015a5ec74aa02c3de8e1c02b911eb68ce655c312cd1308fa9fe2d3",
+      "type": "vector",
+      "viewBox": "0 0 367 311",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "logos/svg/syntopica-symbol-terracotta.svg",
+      "bytes": 27246,
+      "sha256": "1091d0e1ac114363b1ce49c393fc7f88a57bfe535fa8a7db86f53775027e4603",
+      "type": "vector",
+      "viewBox": "0 0 367 311",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "logos/svg/syntopica-symbol-white.svg",
+      "bytes": 27246,
+      "sha256": "1d7fd4bfb9d6a8a28249f2be2e637d3a90cb0c1c6154b59df8aa6007558a3f19",
+      "type": "vector",
+      "viewBox": "0 0 367 311",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "logos/svg/syntopica-wordmark-black.svg",
+      "bytes": 12967,
+      "sha256": "922327f5cb3c8abdebb832e38be719d015f494806c6ddce5425465ed079e7cac",
+      "type": "vector",
+      "viewBox": "0 0 529 150",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "logos/svg/syntopica-wordmark-color.svg",
+      "bytes": 12967,
+      "sha256": "3075d5e32ca23f090a04b098b3800f118b2401f888ecc406af48119584221a36",
+      "type": "vector",
+      "viewBox": "0 0 529 150",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "logos/svg/syntopica-wordmark-inverse.svg",
+      "bytes": 12967,
+      "sha256": "c0ba16fdf187ca00eaa55f87235f623be6b240c890293bb824b8136cf3dc0b41",
+      "type": "vector",
+      "viewBox": "0 0 529 150",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "logos/svg/syntopica-wordmark-terracotta.svg",
+      "bytes": 12967,
+      "sha256": "19f27d03aeb6671ec4aedb7e0bcbb20a068aeb9aa63a8335c3db2636c5541cf9",
+      "type": "vector",
+      "viewBox": "0 0 529 150",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "logos/svg/syntopica-wordmark-white.svg",
+      "bytes": 12967,
+      "sha256": "c0ba16fdf187ca00eaa55f87235f623be6b240c890293bb824b8136cf3dc0b41",
+      "type": "vector",
+      "viewBox": "0 0 529 150",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "preview.png",
+      "bytes": 374332,
+      "sha256": "bfa26e685e57c2d55e79098dbb95b09a3043d2f7cb027195702acef665b5a039",
+      "type": "raster",
+      "width": 1800,
+      "height": 1280,
+      "mode": "RGB",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "web-ready/public/apple-touch-icon.png",
+      "bytes": 19359,
+      "sha256": "1fb6cd0a923a97af1f5e686051dc03b21eea51e30909e4a776819d3c94a2929e",
+      "type": "raster",
+      "width": 180,
+      "height": 180,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "web-ready/public/brand/syntopica-horizontal-color.svg",
+      "bytes": 40076,
+      "sha256": "85e4049c8428a8850787ec1bca962914be47be76c629af698e351d3befe00b50",
+      "type": "vector",
+      "viewBox": "0 0 751 188",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "web-ready/public/brand/syntopica-horizontal-inverse.svg",
+      "bytes": 40076,
+      "sha256": "df056fba38721bca7fdb50dd8cad0708f9fa645e4b030d769bb51da80665ec1a",
+      "type": "vector",
+      "viewBox": "0 0 751 188",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "web-ready/public/brand/syntopica-horizontal-white.svg",
+      "bytes": 40076,
+      "sha256": "4c29a3086d7c602764a25b720af9bf23f33d4efb8383b66d0a0b0b11f6481386",
+      "type": "vector",
+      "viewBox": "0 0 751 188",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "web-ready/public/brand/syntopica-stacked-color.svg",
+      "bytes": 40074,
+      "sha256": "252c19050ebc4bd9b2fd0562c79fb83fea5c4aa59f6846a70abbbc442e80e9b0",
+      "type": "vector",
+      "viewBox": "0 0 545 481",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "web-ready/public/brand/syntopica-stacked-inverse.svg",
+      "bytes": 40074,
+      "sha256": "bfed24aa6dbedc7321bf4b170b31742643dd9c1ec88aa837dd95a76c8fdae7ee",
+      "type": "vector",
+      "viewBox": "0 0 545 481",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "web-ready/public/brand/syntopica-stacked-white.svg",
+      "bytes": 40074,
+      "sha256": "0c86a7106745827a154457948a4289e2da382306a7d61684c02c1d580a3b840d",
+      "type": "vector",
+      "viewBox": "0 0 545 481",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "web-ready/public/brand/syntopica-symbol-color.svg",
+      "bytes": 27246,
+      "sha256": "7196ff83bceca5b382d94372b0ba975a7a7789ff153be439669ebcffbda54aad",
+      "type": "vector",
+      "viewBox": "0 0 367 311",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "web-ready/public/brand/syntopica-symbol-inverse.svg",
+      "bytes": 27246,
+      "sha256": "1f69ad1e3f015a5ec74aa02c3de8e1c02b911eb68ce655c312cd1308fa9fe2d3",
+      "type": "vector",
+      "viewBox": "0 0 367 311",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "web-ready/public/brand/syntopica-symbol-white.svg",
+      "bytes": 27246,
+      "sha256": "1d7fd4bfb9d6a8a28249f2be2e637d3a90cb0c1c6154b59df8aa6007558a3f19",
+      "type": "vector",
+      "viewBox": "0 0 367 311",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "web-ready/public/brand/syntopica-wordmark-color.svg",
+      "bytes": 12967,
+      "sha256": "3075d5e32ca23f090a04b098b3800f118b2401f888ecc406af48119584221a36",
+      "type": "vector",
+      "viewBox": "0 0 529 150",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "web-ready/public/brand/syntopica-wordmark-inverse.svg",
+      "bytes": 12967,
+      "sha256": "c0ba16fdf187ca00eaa55f87235f623be6b240c890293bb824b8136cf3dc0b41",
+      "type": "vector",
+      "viewBox": "0 0 529 150",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "web-ready/public/brand/syntopica-wordmark-white.svg",
+      "bytes": 12967,
+      "sha256": "c0ba16fdf187ca00eaa55f87235f623be6b240c890293bb824b8136cf3dc0b41",
+      "type": "vector",
+      "viewBox": "0 0 529 150",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "web-ready/public/favicon-16x16.png",
+      "bytes": 704,
+      "sha256": "4ef83c2fd654fd830a9f6e774c4ca48be7d6fab5c466a1d32b9d6899555da075",
+      "type": "raster",
+      "width": 16,
+      "height": 16,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "web-ready/public/favicon-32x32.png",
+      "bytes": 2079,
+      "sha256": "5d871450f966f946eb499fe9765d541647e9382c8faf33c38c3d8b1e7c41700b",
+      "type": "raster",
+      "width": 32,
+      "height": 32,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "web-ready/public/favicon.ico",
+      "bytes": 69518,
+      "sha256": "d127f2d034e7455ff1c12d748e9a663fe8867e0922478c22766abe4ad30ed0e9",
+      "type": "raster",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA",
+      "sizes": [
+        [
+          16,
+          16
+        ],
+        [
+          24,
+          24
+        ],
+        [
+          32,
+          32
+        ],
+        [
+          48,
+          48
+        ],
+        [
+          64,
+          64
+        ],
+        [
+          128,
+          128
+        ],
+        [
+          256,
+          256
+        ]
+      ]
+    },
+    {
+      "file": "web-ready/public/favicon.svg",
+      "bytes": 801,
+      "sha256": "c7c6eb28e4c583333ba121c3313e8eb3a4c46d8f2a133ab6824e3c3696745e09",
+      "type": "vector",
+      "viewBox": "0 0 512 512",
+      "embedded_bitmap": false
+    },
+    {
+      "file": "web-ready/public/icons/icon-192.png",
+      "bytes": 21324,
+      "sha256": "fdf1b19bc09176a5dbd9690917a214647e65a71eebce6eef031e22a00abbc7a2",
+      "type": "raster",
+      "width": 192,
+      "height": 192,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "web-ready/public/icons/icon-512.png",
+      "bytes": 70926,
+      "sha256": "4b623c1e3b52a6a1849e36348138fca347020d1a73523327a97b818ab3e8e0e7",
+      "type": "raster",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "web-ready/public/icons/icon-maskable-192.png",
+      "bytes": 16208,
+      "sha256": "661d1e160e23bbda4491b30af7ff80ca078d23384225bd5c4b6ecd2fc5d3e1b4",
+      "type": "raster",
+      "width": 192,
+      "height": 192,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "web-ready/public/icons/icon-maskable-512.png",
+      "bytes": 57041,
+      "sha256": "bbdb4fd7aad509139146a183df13504111b954758aee900e6f4e80d84cedbc1c",
+      "type": "raster",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA",
+      "has_transparent_pixels": false
+    },
+    {
+      "file": "web-ready/public/safari-pinned-tab.svg",
+      "bytes": 917,
+      "sha256": "b9c31807310f6c818b39fedadff980f2b779276ab4876c64d09b37106d99a891",
+      "type": "vector",
+      "viewBox": "0 0 512 512",
+      "embedded_bitmap": false
+    }
+  ]
+}

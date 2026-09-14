@@ -1,0 +1,11 @@
+/* Syntopica — paleta normalizada del diseño elegido. */
+:root {
+  --syntopica-ink: #252525;
+  --syntopica-terracotta: #AB6647;
+  --syntopica-white: #FFFFFF;
+  --syntopica-ivory: #FAF8F4;
+  --syntopica-fog: #E8E5E0;
+  --syntopica-sand: #DDD4C8;
+  --syntopica-charcoal: #292929;
+  --syntopica-black: #0C0C0C;
+}

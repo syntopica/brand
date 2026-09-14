@@ -1,0 +1,16 @@
+# Operating system metadata
+.DS_Store
+._*
+.AppleDouble/
+.LSOverride
+.Spotlight-V100/
+.Trashes/
+__MACOSX/
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Temporary editor files
+*.swp
+*.swo
+*~
